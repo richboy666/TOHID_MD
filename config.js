@@ -5,7 +5,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "TOHID_MD~0LlCSToD#d-kO0Wi2oV6-4LngHSGsAVyKzc0mtcMPwtCX-LpC5wE",
+SESSION_ID: process.env.SESSION_ID || "TOHID_MD~lucmnbpY#PmPM0IpwqHOK5WAMxeLnyqE-9SaE40bYdnAFGXoY4lY",
 // add your Session Id 
 AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
 // make true or false status auto seen
@@ -25,7 +25,7 @@ PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
 BOT_NAME: process.env.BOT_NAME || "TOHID_MD",
 // add bot namw here for menu
-STICKER_NAME: process.env.STICKER_NAME || "⟹P͙R͙A͜͡  𝗜M͙E⥃L͜͡ᑌF͙F͙ㄚ",
+STICKER_NAME: process.env.STICKER_NAME || " ➲K͙𝗨L͙A",
 // type sticker pack name 
 CUSTOM_REACT: process.env.CUSTOM_REACT || "true",
 // make this true for custum emoji react    
@@ -33,11 +33,11 @@ CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️�
 // chose custom react emojis by yourself 
 DELETE_LINKS: process.env.DELETE_LINKS || "true",
 // automatic delete links witho remove member 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "252702132341",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "252907171690",
 // add your bot owner number
-OWNER_NAME: process.env.OWNER_NAME || "⟹P͙R͙A͜͡  𝗜M͙E⥃L͜͡ᑌF͙F͙ㄚ",
+OWNER_NAME: process.env.OWNER_NAME || " ➲K͙𝗨L͙A",
 // add bot owner name
-DESCRIPTION: process.env.DESCRIPTION || "hi is me ⟹P͙R͙A͜͡  𝗜M͙E⥃L͜͡ᑌF͙F͙ㄚ",
+DESCRIPTION: process.env.DESCRIPTION || "hi is me ➲K͙𝗨L͙A",
 // add bot owner name    
 ALIVE_IMG: process.env.ALIVE_IMG || "https://i.ibb.co/LdsCGP4M/lordali.jpg",
 // add img for alive msg
@@ -64,11 +64,11 @@ ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "false",
 // maks true for always online 
 PUBLIC_MODE: process.env.PUBLIC_MODE || "false",
 // make false if want private mod
-AUTO_TYPING: process.env.AUTO_TYPING || "true",
+AUTO_TYPING: process.env.AUTO_TYPING || "false",
 // true for automatic show typing   
 READ_CMD: process.env.READ_CMD || "false",
 // true if want mark commands as read 
-DEV: process.env.DEV || "252702132341",
+DEV: process.env.DEV || "252907171690",
 //replace with your whatsapp number        
 ANTI_VV: process.env.ANTI_VV || "true",
 // true for anti once view 
